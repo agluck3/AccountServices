@@ -6,6 +6,7 @@ using System.Linq;
 
 namespace AccountHandler
 {
+    //Comment to test commit
     public abstract class Bank {
         private Dictionary<string,Type> accountTypes = new Dictionary<string,Type>();
         public void addAccountType(string id,Type type) { accountTypes.Add(id,type);  }
