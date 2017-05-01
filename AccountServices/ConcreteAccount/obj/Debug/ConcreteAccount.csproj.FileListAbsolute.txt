@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\obj\Debug\ConcreteAccount.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\obj\Debug\ConcreteAccount.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\obj\Debug\ConcreteAccount.GUIProgramInterface.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\bin\Debug\ConcreteAccount.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\bin\Debug\ConcreteAccount.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\bin\Debug\ConcreteAccount.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\bin\Debug\AccountHandler.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\bin\Debug\nunit.framework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\bin\Debug\AccountHandler.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\bin\Debug\nunit.framework.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\obj\Debug\ConcreteAccount.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\IngenAccountServices\ConcreteAccount\obj\Debug\ConcreteAccount.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AccountServices\ConcreteAccount\bin\Debug\ConcreteAccount.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AccountServices\ConcreteAccount\obj\Debug\ConcreteAccount.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AccountServices\ConcreteAccount\obj\Debug\ConcreteAccount.pdb
